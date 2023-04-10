@@ -1,5 +1,6 @@
 # Backroads App
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/37fa4000-26b0-4e30-90cd-7724e87a7121/deploy-status)](https://app.netlify.com/sites/cosmic-capybara-523d60/deploys)
 [Working Application - Deployed](https://backroads-app.netlify.app/)
 
 - backroads-html - working html/css/javascript project (contains assets)
